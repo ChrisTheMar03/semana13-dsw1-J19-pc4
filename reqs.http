@@ -1,4 +1,8 @@
-@server = https://fictional-couscous-vgqvx74v6cv76-8080.app.github.dev
+@server = https://urban-waddle-xvrw7r6vg96267rq-8080.app.github.dev
+
+###
+GET {{server}}/api/detalleventas/formacion
+
 ###
 GET {{server}}/api/instrumentos/2
 ###
